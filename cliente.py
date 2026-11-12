@@ -22,4 +22,3 @@ class Cliente:
         self.nombre = nombre    
         self.telefono = telefono
         self.correo = correo
-        
