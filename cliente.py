@@ -1,4 +1,13 @@
-
+# Integrantes: Carlos Daniel Marin Amaris
+#
+#
+#
+#
+# Grupo: 213023
+# Programa: Ingenieria de Sistemas
+# Curso: Programacion
+# Centro: CEAD Valledupar
+# Codigo fuente: autoria propia
 
 
 from excepciones import IdentificacionInvalidaError, TelefonoInvalidoError
