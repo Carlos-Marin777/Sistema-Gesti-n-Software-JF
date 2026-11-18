@@ -1,4 +1,5 @@
 # Nombre del estudiante: Carlos Daniel Marin Amaris
+# Nombre del estudiante: Elian David Rodriguez Buelvas
 # Grupo: 213023
 # Programa: Ingenieria de Sistemas
 # Curso: Programacion
