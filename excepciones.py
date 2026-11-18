@@ -1,6 +1,6 @@
-# Integrantes: Carlos Daniel Marin Amaris
-#
-#
+# Integrantes: 
+# Carlos Daniel Marin Amaris
+# Elian Rodriguez Buelvas
 #
 #
 # Grupo: 213023
