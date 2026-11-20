@@ -89,10 +89,10 @@ class Cliente:
         self._correo = nuevo_correo
 
 
-        #Sobrescribe el método __str__ para proporcionar una representación legible del objeto Cliente. Esto es útil para imprimir información sobre el cliente de manera clara y concisa.
-        def __str__(self):
+    #Sobrescribe el método __str__ para proporcionar una representación legible del objeto Cliente. Esto es útil para imprimir información sobre el cliente de manera clara y concisa.
+    def __str__(self):
     
-            return (
-                f"Cliente: {self.nombre} "
-                f"(Identificacion: {self.identificacion})")
+        return (
+            f"Cliente: {self.nombre} "
+            f"(Identificacion: {self.identificacion})")
     
