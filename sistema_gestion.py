@@ -89,7 +89,7 @@ class SistemaGestion:
             "INFO",
             f"Servicio registrado ({type(servicio).__name__}): "
             f"{servicio.identificador} - {servicio.nombre}"
-)
+        )
         return True
 
     def registrar_recurso(self, recurso):
